@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expat</string>
+    <integer-array name="base_cities">
+        <item>1006984</item>
+        <item>2023469</item>
+    </integer-array>
+</resources>
